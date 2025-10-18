@@ -10,7 +10,7 @@
 #For each recipe ingredient (like "eggflour"), decompose it into the list of matched ingredients.
 #Return only recipes that can be fully formed, with their detailed breakdown.
 
-def decomposeConcatenatedRecipes(ingredients, recipes):
+def solution(ingredients, recipes):
     available = set(ingredients)
     results = []
 
@@ -58,4 +58,4 @@ recipes = [
     {"name": "Impossible Pie", "ingredients": ["eggbutter"]}
 ]
 
-print(decomposeConcatenatedRecipes(ingredients, recipes))
+print(solution(ingredients, recipes))
