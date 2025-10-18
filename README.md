@@ -12,7 +12,7 @@ Welcome to this repository! Here you will find a collection of **Python practice
 
 ---
 
-Contributing
+#Contributing
 Feel free to add new exercises, improve existing solutions. Pull requests are welcome!
 
 Happy Coding!
