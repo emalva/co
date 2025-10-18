@@ -2,7 +2,7 @@
 #Task Description
 #
 #You are given:
-#ingredients: a list of strings you have.
+#ingredients: a list of strings that are basic ingredients.
 #recipes: a list of recipe objects, each with "name" and "ingredients" (some may be concatenations like "eggflour").
 #
 #You must:
